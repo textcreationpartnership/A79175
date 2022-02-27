@@ -1,0 +1,181 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A messe of pottage, very well seasoned and crumbd. With bread of life, and easie to be digested. Against the contumelious slanderers of the divine service, terming it porrage. Set forth by Gyles Calfine.</title>
+            <author>Calfine, Giles.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A79175</idno>
+            <idno type="STC">Wing C295</idno>
+            <idno type="STC">Thomason E140_21</idno>
+            <idno type="STC">ESTC R15924</idno>
+            <idno type="EEBO-CITATION">99859944</idno>
+            <idno type="PROQUEST">99859944</idno>
+            <idno type="VID">112048</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A79175)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 112048)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 25:E140[21])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A messe of pottage, very well seasoned and crumbd. With bread of life, and easie to be digested. Against the contumelious slanderers of the divine service, terming it porrage. Set forth by Gyles Calfine.</title>
+                  <author>Calfine, Giles.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed in the yeare, 1642. Being a yeare of discidiug [sic]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Customs and practices --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-08</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-08</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:112048:1" rendition="simple:additions"/>
+            <p>A Meſſe of POTTAGE, Very well Seaſoned and Crumbd. With BREAD of LIFE, and eaſie to be digeſted. Againſt the contumelious ſlanderers of the Divine Service, terming it Porrage.</p>
+            <q>Brethren, whatſoever things are true, whatſoever things are honeſt, whatſoever things are juſt, whatſoeuer things are pure, what<g ref="char:EOLhyphen"/>ſoever things are lovely, whatſoever things are of good report; if there be any vertue, if there be any prayſe, thinke on theſe things. <bibl>
+                  <hi>4. Philippians, 8.</hi>
+               </bibl>
+            </q>
+            <p>Set forth by <hi>Gyles Calfine.</hi>
+            </p>
+            <p>LONDON, Printed in the yeare, 1642. <hi>Being a Yeare of diſciding.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="tract">
+            <pb facs="tcp:112048:2"/>
+            <pb facs="tcp:112048:2"/>
+            <head>A Meſſe of Porrage very well ſeaſoned and Crumb'd, with Bread of Life, and eaſie to be digeſted.</head>
+            <p>I Need not make an Appology to the enſuing Diſcourſe; Tis well known to all honeſt and diſcreet Proteſtants, how baſely our Service-Book is tearmed (by the name of Por<g ref="char:EOLhyphen"/>rage, a name very frequent in uncivill mouthes) and trampled under foot by unreaſonable men, that have neither <hi>Faith</hi> nor <hi>Charity;</hi> and although they be now well fed to the full, and may go from one Church to another to pleaſe their pallat, and taſte of what pleaſeth them beſt; yet there may a time come, (which I pray God there do not) that they may be glad of the crums which fall from theit Maſters Table: but let them alone awhile, the thing that I ſay is this, That our <hi>Common Prayer</hi> is ſo abhorred, depraved, deteſted, and deſpiſed of by many, as if it were the moſt vileſt thing in the World; nay, if the Devill himſelfe had compoſed it, it could not be more villified then it is: Tis a ſhame to ſpeak, and I bluſh to heare it, that Men that think themſelves ſuch rare Divines, that people that think they have ſuch knowledge and zeal, to tearme ſuch a good thing and ſuch holy matter as there is, to be <hi>Porrage:</hi> oh fie! where is your judgment? where is your moderation; what, quite loſt? is this your zeale turned to hate? you are ſurely of a hot and fiery Spirit, contrary to the nature of warme and wholeſome <hi>Porrage;</hi> if you knew but the right vertue of <hi>Pottage,</hi> you would not have tearmed the <hi>Common Prayer</hi> ſo, but your owne Prayers: For do ye not know, That they were godly men that made them; they were not made <hi>ex tempore,</hi> but with delibe<g ref="char:EOLhyphen"/>ration, not hand over head, as many do in theſe dayes, but ſeri<g ref="char:EOLhyphen"/>ouſly conſidered of, and premeditated and do you not know,
+<pb facs="tcp:112048:3"/>That theſe good men layd downe their lives for this and the Truth? and doe ye not know, That they were eſtabliſhed and maintained by <hi>Acts of Parliament?</hi> in the Raigne of three Kings and one Queen, and is it now made a laughing ſtock; ſurely you ſhould have more manners then ſo.</p>
+            <p>Indeed, is <hi>Parliament</hi> time, and men ſpeak and do what they lyſt now, and ſo do ye; for ye ſpeak evill of Kings, of authori<g ref="char:EOLhyphen"/>ty and dignity, and deſpiſe government, contrary to the Apo<g ref="char:EOLhyphen"/>ſtles rule. Oh the great malice that is one againſt another! againſt Peere and Peaſant, againſt Prieſt and People oh envie, thou limbe of the Devill! how ruleſt thou in the hearts of people, eſpecially againſt Biſhops; oh how odious is that name to many! but I counſell you to ſpeake moderately, and judge charitably; if they be ſtained, let them be pained: they have faults as well as we; yet they are Gods Embaſſador, his Stew<g ref="char:EOLhyphen"/>ards, his Angels, diſpoſers of Gods ſecrets, disburſers of his trea<g ref="char:EOLhyphen"/>ſuries; then revile them not, <hi>For tis written, Thou ſhalt not ſpeak evill of the Ruler of the People.</hi>
+            </p>
+            <p>But as for that which you call <hi>Porrage,</hi> who hatcht the name I know not, neither is it worth the enquiring after, nor the worſe for that name, nor none the worſe that uſeth it, for I hold <hi>Porrage</hi> good food; it is better to a ſick man then meat; for a ſick man will ſooner eat <hi>Porrage</hi> then meat: <hi>Pottage</hi> will di<g ref="char:EOLhyphen"/>geſt with him, when meat will not: <hi>Pottage</hi> will nouriſh the bloud, filles the vaines, runs into every part of a man, and makes him warmer, ſo will theſe prayers do, and work more effectu<g ref="char:EOLhyphen"/>ally; ſet the body and ſoule in a heat; warme our devotion, works fervency in us, lifts up our ſoules to God. And many things more it worketh in us, if we had but appetite to them, and tis well ſtored with hearbs out of Gods Garden, here a lit<g ref="char:EOLhyphen"/>tle, and there a little, as appeares in the beginning of the <hi>Com<g ref="char:EOLhyphen"/>mon Prayer,</hi> and ſo forward to the end of it. For there is the hearbs of Gods own planting (in our <hi>Pottage,</hi> as you call it) the
+<pb facs="tcp:112048:3"/>ten Commandements, dainty hearbs to ſeaſon any <hi>Pottage</hi> in the world then there is our Saviours form of prayer, &amp; that is a moſt ſweet pot-hearbe, cannot be denied, then there is alſo <hi>Davids</hi> hearb, his Prayers and Pſalmes, help, to make our <hi>Pottage</hi> relliſh well; then, S. <hi>Pauls</hi> precepts; alſo the Creed, a very faithfull pot-hearbe; and the Song of the bleſſed Virgin, a good pot-hearb, ſo that this porrage hath abundance of choice herbs to ſeaſon it and thoſe that will eat no ſuch porrage as theſe ſo well dreſt it is pity but they ſhould faſt, &amp; as the proverb is, thoſe that will eat no porrage muſt eat no meat. Though they be as (ſome tearm them) Cockcrowed porrage, yet they are as ſweet, as good, as dainty and as freſh, as they were at the firſt: The Sunne hath not made them ſowre with its heat: neither hath the cold winter taken away their vigour, and ſtrength, but they are as whole<g ref="char:EOLhyphen"/>ſom and as well relliſhed as at the firſt, and unleſſe you be ſick for novelties, you cannot eate better then theſe. Compare them with the Scriptures, and ſee if they be not as well ſeaſoned and crumbd: if you find any thing in them, that is either too ſalt or too freſh, too bitter, or too ſowre, too little or too great; that herb ſhall be taken out, and a better put in if it can be got or none at all: And as in Kitchin porrage there is many good herbs in it ſo there is likewiſe in this Church porrage, (as you call it) For firſt in Kitchin porrage, is good water to make them ſo, on the contrary, in the other porrage, is the water of life. 2. There is ſalt to ſeaſon them. In the other is a prayer for grace, to ſeaſon our hearts. 3. There is Oatmeal, to nouriſh the body: in the other is the words of him, that is the bread of life, which nouriſheth our ſoules and bodies to eternall Life. 4. There is Thyme in them to relliſh them, and it is very whol<g ref="char:EOLhyphen"/>ſom: in the other is a wholſome exhortation, not to harden our hearts, whileſt it is called to day; this relliſheth well. 5. There is a ſmall Onion to give a taſte. In the other is a good herb, called, Lord have mercy upon us, which gives a ſweet
+<pb facs="tcp:112048:4"/>taſte to the ſoule. 6. There is Roſemary to comfort and re<g ref="char:EOLhyphen"/>freſh the body, In the other is comfortable words of Chriſt: <hi>Come unto me all yee that are heavie laden, and I will refreſh your ſoules.</hi> 7. There is Marygold leaves, to revive the ſpirits. And ſo in the other, there is the <hi>ſouls magnifying the Lord, and the ſpi<g ref="char:EOLhyphen"/>rits rejoycing in God our Saviour.</hi> Theſe and many wholſom herbs are contained in it, and all theſe boyling in the heart of mans will, make as good porrage as the world can affoord, eſpe<g ref="char:EOLhyphen"/>cially if you uſe theſe herbs following for digeſtion. <hi>viz.</hi> The herb repentance, the herb grace, the herb faith, the herb hope, the herb love, the herb good works, the herb piety, the herb zeal the herb fervency. the herb ardency, the herb vigilancy, and the herb conſtancy; with many more of this nature, which are moſt excellent for digeſtion. And thoſe that deſpiſe this porrage of ours, have no appetite to the Lords prayer, the ten comman<g ref="char:EOLhyphen"/>dements, the Pſalmes of <hi>David,</hi> and other good matter that is in them, this being contained in the common prayer, muſt be deſpiſed alſo but me thinks I hear ſome ſay, they deſpiſe not thoſe What is it then I pray that you diſlike in this porrage? Oh Sir, I know your meaning by your gaping, this ſlicks in your teeth and ſpoils your ſtomack. 1. There is, (you ſay) too much of the ſurplice which ſmelleth of the garment of the Whore. 2 There is too much croſſing in <hi>Baptiſme,</hi> and that ſmells (you ſay) of the mark of the Beaſt, (but of what beaſt, I wot not). 3. There is too much bowing, and that taſts of Idolatry. 4. There is too much ring in <hi>Matrimonie,</hi> and this ſmells of Superſtition. 5. Too much kneeling at the Sacrament, this taſts of <hi>Antechriſt.</hi> 6. Too much ſtanding up, this ſmells of vain glorie. 7. Too much glorie be to the Father, and this is ſuperfluous. 8. There is too much Lord have mercy on us, and this is needleſſe. 9. Too much Lords Prayer and this is odious in everie ones mouth. 10. There be too many prayers and they ſavour not of the ſpirit. And what of all theſe, doe they ſavour ſo ſtrong in
+<pb facs="tcp:112048:4"/>your noſe, that you dare not peep into the Church. Then I may ſay, you ſavour of an ill ſmell, and are very abſurd, and you have got a great cold in your feet, and it is ſumed up into your head, and ſo ſtuffes your brain, that you cannot ſmell at all, and carrion is as good to your ſent, as good and wholſom porrage is. That which you hold to be the worſt, (as namely) troſſing, bowing, ſurplice, kneeling, <hi>&amp;c.</hi> is not worth the ſpeak<g ref="char:EOLhyphen"/>ing, and he is a mad man that believes there is ſalvation in them and ſo of neceſſitie we muſt uſe them: no, they may be left at any time, when authoritie ſhall command: they are ordered but for decencie ſake, and as neare to the <hi>Primitive</hi> times as could be gathered, and if we have no order in our Churches, we ſhall be a reproch to all people. If we ſhould be of that mind, as the faſhion is or many people are, we then muſt have a new form of prayer everie yeare, ſo you would have ſomething, but you know not what: ſo that you are neuer content full nor faſting, neither with porrage nor without.</p>
+            <p>If Pottage had not been good food, <hi>Jacob</hi> would have made none neither would the Angel of the Lord, have carried <hi>Abbacuc</hi> by the haire of the head, to <hi>Daniel</hi> in the Lyons Den, that he might eat the <hi>Pottage</hi> which <hi>Abbacuc</hi> had prepared for the reapers. Ile warrant you <hi>Daniel</hi> was glad of them, he went not behind the dore to eat them, as many in our daies do ſtay at the Church dore till the ſervice is done, and then come and eat the bread out of others mouthes: but beleeve it, theres no death in this <hi>Pot<g ref="char:EOLhyphen"/>tage,</hi> in this <hi>Common Prayer:</hi> though many have preached and ſaid there is, and that tis meere Popery. If this be the opinion of <hi>Roundheads,</hi> then tis no marvell we are ſo ſubject to change; for marke it alwaies, that that which is round is ſooneſt moved and never conſtant, neither in manner, faſhion, or place; their wit is like quick-ſilver in a foot-ball, alwaies running, ſo nothing will ſtay their humour. Therefore I counſell you to do as <hi>Eſou; Ja<g ref="char:EOLhyphen"/>cobs</hi> brother did, who ſould his Birth-right for a Meſſe of <hi>Pottage;</hi>
+               <pb facs="tcp:112048:5"/>ſo would I have you to do, to ſell your ſelfe opinions for this <hi>Porrage;</hi> I do not mean that you ſhould ſell your chiefeſt Birth-right, <hi>The Word of God,</hi> that unto which you are born, and muſt die for; not to ſell this for Ceremonies, not to ſell the ſub<g ref="char:EOLhyphen"/>ſtance for a ſhaddow, but deſpiſe the bare conceits of it; and I dare warrant you, that the uſing of this which you call <hi>Porrage,</hi> will never prove your bane neither ſhall you commit any ſinne in the leaſt degree, provided, that you uſe them to no other end, then they were ordered unto, and that is as S. <hi>Paul</hi> ſpeaks concer<g ref="char:EOLhyphen"/>ning the World, <hi>to uſe it, as not abuſing it;</hi> for the faſhion of the World paſſeth away, to ſuch end we may uſe them, and not abuſe them, knowing that it is in the power of the King and Parlia<g ref="char:EOLhyphen"/>ment, to alter and change them when they pleaſe, if in caſe they be corrupted.</p>
+            <q>
+               <l>
+                  <hi>You that unto the Fleſh are ſo inclin'd,</hi>
+               </l>
+               <l>
+                  <hi>And love all meats but Porrage (that's your mind)</hi>
+               </l>
+               <l>
+                  <hi>Hark in thine eare, what I ſay, looke well to it,</hi>
+               </l>
+               <l>
+                  <hi>For too much Fleſh, perchance, will make thee rue it.</hi>
+               </l>
+               <l>
+                  <hi>Set not thy minde upon the Fleſh too much,</hi>
+               </l>
+               <l>
+                  <hi>Leaſt that it prove too hot for thee to touch;</hi>
+               </l>
+               <l>
+                  <hi>This kinde of diet meat and Porrage filleth,</hi>
+               </l>
+               <l>
+                  <hi>But too much Fleſh alone, the body ſpilleth.</hi>
+               </l>
+            </q>
+         </div>
+         <div type="postscript">
+            <head>Poſt-ſcript.</head>
+            <p>
+               <hi>Feare God, Honour the King.</hi>
+            </p>
+            <p>
+               <hi>Let every Soule he ſubject to the Higher Powers.</hi>
+            </p>
+            <p>
+               <hi>Submit your ſelves to every Ordinance of Man, for the Lords ſake, for God is a God of Order, and not of Confuſion.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
